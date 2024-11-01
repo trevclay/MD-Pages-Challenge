@@ -1,6 +1,6 @@
 # MD-Pages-Challenge
 Markdown Pages GitHub Challenge IT 1600
-This repository is home to information that interests me in accordance with the Challenge for IT 1600. Below you will find the table of contents.
+This repository is home to information that interests me in accordance with the Challenge for IT 1600. Below you will find the table of contents. Upon following each link, you'll see my top 10 of each category!
 
 
 ## Table of Contents
